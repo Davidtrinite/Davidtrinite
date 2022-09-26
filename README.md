@@ -19,4 +19,4 @@ I hope to connect!
 * 💻 HTML, CSS, JS
 
 ## Projects
-<img srce=" width "256" />
+< img srce="Screen_Recording_2022-09-24_at_10_43_36_PM_AdobeExpress.gif" width "256" />
