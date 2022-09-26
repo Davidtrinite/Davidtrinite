@@ -19,4 +19,4 @@ I hope to connect!
 * 💻 HTML, CSS, JS
 
 ## Projects
-< img srce="https://github.com/Davidtrinite/Davidtrinite/blob/dc607d90a10ecf35bed1a119fd4422cabf4935ee/Screen_Recording_2022-09-24_at_10_43_36_PM_AdobeExpress.gif" width "256" />
+<img src= "https://github.com/Davidtrinite/Davidtrinite/blob/dc607d90a10ecf35bed1a119fd4422cabf4935ee/Screen_Recording_2022-09-24_at_10_43_36_PM_AdobeExpress.gif " width="256" />
