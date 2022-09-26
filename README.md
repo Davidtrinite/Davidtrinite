@@ -17,3 +17,6 @@ I hope to connect!
 * ⚛️ React & Native, & Python
 * 📱 Figma & AdobeXD
 * 💻 HTML, CSS, JS
+
+## Projects
+<img srce=" width "256" />
