@@ -13,7 +13,7 @@ I enjoy meeting new people and hearing new perspectives. Reach out if you want t
 
 I hope to connect!
 
-###Skills and Experience
+## Skills and Experience
 * ⚛️ React & Native, & Python
 * 📱 Figma & AdobeXD
 * 💻 HTML, CSS, JS
