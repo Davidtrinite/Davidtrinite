@@ -14,8 +14,8 @@ I enjoy meeting new people and hearing new perspectives. Reach out if you want t
 I hope to connect!
 
 ## Skills and Experience
-* ⚛️ React & Native, & Python
-* 📱 Figma & AdobeXD
+* ⚛️ React & Native, Swift, & Python
+* 📱 Figma, AdobeXD, WireFrame.cc
 * 💻 HTML, CSS, JS
 
 ## Projects
