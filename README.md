@@ -6,6 +6,8 @@ With my brother, on the side, I am working to grow Trinite Méson and disrupt th
 
 Currently, I am Pursuing a bachelor of science, in business administration; Management Information Systems, and Accounting; Minor in Finance. At the University of Colorado Denver, I run the first Commerical Real Estate club where we recruit students across different disciplines and equip them with the critical and creative aptitude to participate in the real estate industry. 
 
+With my friend, we created Denver Incuvators. An incubator for innovators. We hope to recruit innovators and equip them with the critical and creative aptitude to participate in the start-up and tech world.
+
 I have a passion for building teams to develop something people want. I am actively looking for ways to provide value by integrating media and technology to make business better. I hope to eventually transition into private equity and provide value by deploying capital.
 
 
